@@ -4,3 +4,5 @@ add feature list
 2. add like feature
 
 4. add tak
+4. noh add
+3. kim
