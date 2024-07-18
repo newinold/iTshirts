@@ -6,3 +6,4 @@ add feature list
 3. add tak
 4. noh add
 5. kim
+6. noh
